@@ -7,4 +7,5 @@ public class Sale {
     private int snackID;
     private LocalDateTime date;
     private int userID;
+    private int TestInt;
 }
